@@ -26,3 +26,9 @@
 .header__left > img {
   height: 40px;
 }
+
+.header__input > input {
+  border: none;
+  background-color: transparent;
+  outline-width: 0;
+}
